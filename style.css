@@ -1,0 +1,46 @@
+#body{
+    display: grid;
+    position: absolute;
+}
+
+
+.name{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    align-content: center;
+    background-color: rgb(123, 164, 144);
+}
+.train{
+    border: 1px solid black;
+    width: 200px;
+    height:60px ;
+    margin-top: 4px;
+    align-content: center;
+    background-color: rgb(240, 214, 179);
+}
+.feedback{
+    border: 1px solid black;
+    width: 150px;
+    height:20px ;
+    margin-top: 4px;
+    text-align: center;
+    align-content: center;
+    background-color: rgb(200, 125, 204);
+}
+.app{
+    border: 1px solid black;
+    width: 300px;
+    height:200px ;
+    margin-top: 4px;
+    background-color: darkorange;
+}
+.non{
+    border: 1px solid black;
+    width: 270px;
+    height:150px ;
+    margin-top: 6px;
+    text-align: center;
+    align-content: center;
+    background-color: ivory;
+}
